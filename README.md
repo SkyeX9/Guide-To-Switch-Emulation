@@ -4,7 +4,6 @@ If you use anything out of this please credit me appropriately!
 
 [![Discord](https://img.shields.io/discord/622504866132000768?logo=Discord)](https://discord.gg/8KMuRMx)
 
-  * [Guide](#guide)
   * [yuzu-Setup](#setup)
    * [Needed-Files](#files)
    * [Settings](#settings)
@@ -18,8 +17,6 @@ If you use anything out of this please credit me appropriately!
    * [BCAT](#bcats)
    * [Mods/Patches](#addons)
   * [Goodbye](#goodbye)
-
- # Guide
 
   # Setup
  First you will need [yuzu](https://pineappleea.github.io/).
