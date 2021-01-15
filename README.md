@@ -4,7 +4,6 @@ If you use anything out of this please credit me appropriately!
 
 [![Discord](https://img.shields.io/discord/622504866132000768?logo=Discord)](https://discord.gg/8KMuRMx)
 
-  * [Introduction](#introduction)
   * [Guide](#guide)
   * [yuzu-Setup](#setup)
    * [Needed-Files](#files)
@@ -19,12 +18,6 @@ If you use anything out of this please credit me appropriately!
    * [BCAT](#bcats)
    * [Mods/Patches](#addons)
   * [Goodbye](#goodbye)
-
-
-
- # Introduction
- Hey, im Skye and I'm writing you a guide on how to install yuzu without having a Switch, since I discovered this is literally a pain in the ass.
- I try to make it as easy as possible, but be sure to check this out if you need new keys, since I try to keep this always up-to-date! <3
 
  # Guide
 
