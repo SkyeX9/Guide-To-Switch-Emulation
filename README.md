@@ -64,7 +64,7 @@ If you use anything out of this please credit me appropriately!
   When you got the XCI, just do the same as in the Gif Above
 
 
- # Aditional
+ # Additional
 
   # Compatibility
 
