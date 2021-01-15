@@ -71,7 +71,6 @@ If you use anything out of this please credit me appropriately!
   # NPGames
 
   I found a very good guide that can be found [here](https://wiki.no-intro.org/index.php?title=Nintendo_Switch_Dumping_Guide)
-  Sorry just have no Homebrewed Switch to try it atm.
   When you got the XCI, just do the same as in the Gif Above
 
 
