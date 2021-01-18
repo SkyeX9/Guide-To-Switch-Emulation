@@ -3,6 +3,7 @@ This Repo explains how to install the yuzu Switch Emulator without a Switch on a
 
 [![Discord](https://img.shields.io/discord/622504866132000768?logo=Discord)](https://discord.gg/8KMuRMx)
 
+  # Quick Links
   * [yuzu-Setup](#setup)
    * [Needed-Files](#files)
    * [Settings](#settings)
