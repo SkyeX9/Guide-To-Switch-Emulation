@@ -32,7 +32,7 @@ This Repo explains how to install the yuzu Switch Emulator without a Switch on a
  Inside of yuzu click File -> Open yuzu folder.
  This will open the yuzu configuration folder inside of explorer.
 
- Create a folder called "keys" and copy the key you got from [here](https://raw.githubusercontent.com/emuworld/aio/master/prod.keys) and paste it in the folder.
+ Create a folder called "keys" and copy the prod.key you download from [here](https://github.com/emuworld/aio) and paste it in the folder.
 
   # Settings
  For settings open yuzu up Emulation -> Configure -> Graphics, Select OpenGL and set it to Vulkan or OpenGL. (Vulkan seems to be a bit bad atm)
