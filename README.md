@@ -24,7 +24,7 @@ This Repo explains how to install the yuzu Switch Emulator without a Switch on a
  Open it in WinRar, 7ZIP idk and then move the contents in a folder and open the yuzu.exe.
 
  yuzu will open and show this screen
- ![DuBistDoof](https://nuke.bayern/9RTatw4x.png?key=J7cFCPraHXStHb)
+ ![JustARandomString1](https://raw.githubusercontent.com/SkyeX9/Guide-To-Switch-Emulation/main/Yuzu_Images/yuzu_HIASRdCQCP.png)
  on there click Emulation -> Configure -> System -> Profile
  Then press on Add and make a new profile, then close yuzu
 
@@ -33,6 +33,8 @@ This Repo explains how to install the yuzu Switch Emulator without a Switch on a
  This will open the yuzu configuration folder inside of explorer.
 
  Create a folder called "keys" and copy the prod.key you download from [here](https://github.com/emuworld/aio) and paste it in the folder.
+
+Next, download and install Microsoft Visual C++ 2019 from [here](https://aka.ms/vs/16/release/vc_redist.x64.exe) if you dont have it already installed.
 
   # Settings
  For settings open yuzu up Emulation -> Configure -> Graphics, Select OpenGL and set it to Vulkan or OpenGL. (Vulkan seems to be a bit bad atm)
