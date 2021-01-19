@@ -80,8 +80,8 @@ Once you have done this step, right click the new folder the shows up in yuzu, a
  Go inside the next few folders until you are at this file with an .IPS extension name
 
  ![JustARandomString5](https://raw.githubusercontent.com/SkyeX9/Guide-To-Switch-Emulation/main/Yuzu_Images/explorer_9IZcosBq7L.png)
-   Then move that IPS file into exefs_patches and delete the now empty folder.
 
+Then move that IPS file into exefs_patches and delete the now empty folder.
 Rename exefs_patches into exefs UNLESS you have any other names for the folder, do NOT rename it to exefs. Instead rename them to romfs or romfs_ext.
 
  Now open yuzu and rightclick your game -> Open Mod Directory.
