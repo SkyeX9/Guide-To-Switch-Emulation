@@ -9,7 +9,6 @@ This Repo explains how to install the yuzu Switch Emulator without a Switch on a
    * [Settings](#settings)
    * [Games](#games)
    * [GameCart-Dumping](#gamecart-dumping)
-  * [Additional](#additional)
    * [Compatability](#compatibility) 
    * [GameUpdates](#gameupdates)
    * [BCAT](#bcats)
@@ -55,7 +54,6 @@ Once you have done this step, right click the new folder the shows up in yuzu, a
   For any of you with a modded switch, and want to dump your own game carts, instead of being a pirate, I found a very good guide that can be found [here](https://wiki.no-intro.org/index.php?title=Nintendo_Switch_Dumping_Guide)
   When you get the XCI on your computer, just do the same as in the [games](#games) section
 
- # Additional
   ## Compatibility
 
   For a Compatibility List of Games working look [here](https://yuzu-emu.org/game/)
