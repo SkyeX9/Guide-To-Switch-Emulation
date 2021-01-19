@@ -8,7 +8,7 @@ This Repo explains how to install the yuzu Switch Emulator without a Switch on a
    * [Needed-Files](#files)
    * [Settings](#settings)
    * [Games](#games)
-  * [NoPiracy](#nopiracy)
+  * [GameCart-Dumping](#gamecarddumping)
    * [Games](#npgames) 
   * [Additional](#additional)
    * [Compatability](#compatibility) 
@@ -24,7 +24,7 @@ This Repo explains how to install the yuzu Switch Emulator without a Switch on a
  Open it in WinRar, 7ZIP idk and then move the contents in a folder and open the yuzu.exe.
 
  yuzu will open and show this screen
- ![JustARandomString1](https://raw.githubusercontent.com/SkyeX9/Guide-To-Switch-Emulation/main/Yuzu_Images/yuzu_HIASRdCQCP.png)
+ ![JustARandomString1](https://raw.githubusercontent.com/SkyeX9/Guide-To-Switch-Emulation/main/Yuzu_Images/yuzu_BDZoemVbLl.png)
  on there click Emulation -> Configure -> System -> Profile
  Then press on Add and make a new profile, then close yuzu
 
@@ -55,16 +55,10 @@ Next, download and install Microsoft Visual C++ 2019 from [here](https://aka.ms/
 <p> Now the game should be in the list.
 <p>
 
- # NoPiracy
-
- * So here goes the way to get Games without Piracy!
- * of Something is titled with an ```NP``` it means its NoPiracy!
-
-  # NPGames
+ # Game Cart Dumping
 
   I found a very good guide that can be found [here](https://wiki.no-intro.org/index.php?title=Nintendo_Switch_Dumping_Guide)
   When you got the XCI, just do the same as in the Gif Above
-
 
  # Additional
 
