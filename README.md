@@ -53,7 +53,7 @@ Once you have done this step, right click the new folder the shows up in yuzu, a
  ## GameCart-Dumping
 
   For any of you with a modded switch, and want to dump your own game carts, instead of being a pirate, I found a very good guide that can be found [here](https://wiki.no-intro.org/index.php?title=Nintendo_Switch_Dumping_Guide)
-  When you get the XCI on your computer, just do the same as in the [Games](#games)
+  When you get the XCI on your computer, just do the same as in the [games](#games) section
 
  # Additional
   ## Compatibility
@@ -63,9 +63,8 @@ Once you have done this step, right click the new folder the shows up in yuzu, a
   ## GameUpdates
 
  Download the update of your game or DLCs, usually as a .nsp.
- Put it in your folder of the game, then open yuzu. Do exactly as in there
- ![rererere](https://i.uwu.plus/hNmEGB8V.gif?key=gGAX37XVMM7o1q)
- For me it was already installed but it should then show under addons that you have it installed
+ Put it in the folder of the game, then open yuzu. Do exactly as I do in the GIF below
+ ![JustARandomString4Gif](https://raw.githubusercontent.com/SkyeX9/Guide-To-Switch-Emulation/main/Yuzu_Images/B7j0pc9ICO.gif)
 
   ## BCATS
 
