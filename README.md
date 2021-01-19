@@ -45,14 +45,11 @@ Next, download and install Microsoft Visual C++ 2019 from [here](https://aka.ms/
  After you're done press Okay and continue to the next step.
 
   ## Games
- Download any ROM you want from any ROM Website you like, or if your arent a Pirate from your Switch.
- A Tutorial for that is below in 
- I recommend [here](https://drive.google.com/drive/folders/1SsD4PxVISvyeAkM07wD9rpHFs24K8Bi3?usp=drive_open), but any ROM Site does it.
- After you got your File (can be .xci or .nsp) create a folder somewhere on your PC and in that folder create another folder for your game.
+ Download any ROM you want from any ROM Website you like, or if your arent a Pirate, dump the gamecart from your Switch.
+ After you got your File (can be .xci or .nsp/.nsz) create a folder somewhere on your PC and in that folder create another folder for your game.
  After that double-click into yuzu and select the folder you put your game folder in.
  ![UwU](https://sexin.church/7CT7o3Sr.png?key=XuV6NAPCK1ZTH0)
 <p> Now the game should be in the list.
-<p>
 
  ## GameCart-Dumping
 
