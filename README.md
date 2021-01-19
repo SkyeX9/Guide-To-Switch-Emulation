@@ -18,7 +18,7 @@ This Repo explains how to install the yuzu Switch Emulator without a Switch on a
    * [Mods/Patches](#addons)
   * [Goodbye](#goodbye)
 
-  # Setup
+  ## Setup
  First you will need [yuzu](https://pineappleea.github.io/).
  Download it.
  Open it in WinRar, 7ZIP idk and then move the contents in a folder and open the yuzu.exe.
@@ -28,7 +28,7 @@ This Repo explains how to install the yuzu Switch Emulator without a Switch on a
  on there click Emulation -> Configure -> System -> Profile
  Then press on Add and make a new profile, then close yuzu
 
-  # Files
+  ## Files
  Inside of yuzu click File -> Open yuzu folder.
  This will open the yuzu configuration folder inside of explorer.
 
@@ -36,7 +36,7 @@ This Repo explains how to install the yuzu Switch Emulator without a Switch on a
 
 Next, download and install Microsoft Visual C++ 2019 from [here](https://aka.ms/vs/16/release/vc_redist.x64.exe) if you dont have it already installed.
 
-  # Settings
+  ## Settings
  For settings open yuzu up Emulation -> Configure -> Graphics, Select OpenGL and set it to Vulkan or OpenGL. (Vulkan seems to be a bit bad atm)
  Then go to Controls and press Single Player yadiyadiyada and set it to something like this
  ![Reeeeeeee](https://nuke.bayern/tQRi6Dco.png?key=TKvixrA2KWor0u)
@@ -45,7 +45,7 @@ Next, download and install Microsoft Visual C++ 2019 from [here](https://aka.ms/
  Press Configure and press the excat buttons on your controller (it's easier for Xbox but for you PS4 and keyboard users I have a graphic for yo found [here](https://compass-ssl.xboxlive.com/assets/c7/a1/c7a12fbe-af04-4a90-92f2-18338219c2aa.png?n=one-controller-front-l.png))
  After you're done press Okay and continue to the next step.
 
-  # Games
+  ## Games
  Download any ROM you want from any ROM Website you like, or if your arent a Pirate from your Switch.
  A Tutorial for that is below in 
  I recommend [here](https://drive.google.com/drive/folders/1SsD4PxVISvyeAkM07wD9rpHFs24K8Bi3?usp=drive_open), but any ROM Site does it.
@@ -55,25 +55,25 @@ Next, download and install Microsoft Visual C++ 2019 from [here](https://aka.ms/
 <p> Now the game should be in the list.
 <p>
 
- # GameCart-Dumping
+ ## GameCart-Dumping
 
   I found a very good guide that can be found [here](https://wiki.no-intro.org/index.php?title=Nintendo_Switch_Dumping_Guide)
   When you got the XCI, just do the same as in the Gif Above
 
- ## Additional
+ # Additional
 
-  # Compatibility
+  ## Compatibility
 
   For a Compatibility List of Games working look [here](https://yuzu-emu.org/game/)
 
-  # GameUpdates
+  ## GameUpdates
 
  Download the update of your game or DLCs, usually as a .nsp.
  Put it in your folder of the game, then open yuzu. Do exactly as in there
  ![rererere](https://i.uwu.plus/hNmEGB8V.gif?key=gGAX37XVMM7o1q)
  For me it was already installed but it should then show under addons that you have it installed
 
-  # Performance
+  ## Performance
 
   For the best Performance just go below here
 
@@ -95,7 +95,7 @@ Next, download and install Microsoft Visual C++ 2019 from [here](https://aka.ms/
 
   Use my [GamingTweaksRepo](https://github.com/PrincessAkira/Use-Gaming-Tweaks) for Performance Stuff
 
-  # BCATS
+  ## BCATS
 
   Whats a BCAT?
   A BCAT is the way of Nintendo sending you Ingame Gifts.
@@ -104,7 +104,7 @@ Next, download and install Microsoft Visual C++ 2019 from [here](https://aka.ms/
  <p> A list of all the stuff you can get can be found [here](https://yuzu-emu.org/help/feature/boxcat/)
 
 
-  # Addons
+  ## Addons
 
  Here ima show how to install mods.
  It's pretty simple, we're gonna take the mod from [here](https://gbatemp.net/threads/pokemon-mystery-dungeon-dx-60-fps-mod.559469/)
