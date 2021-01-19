@@ -71,29 +71,29 @@ Once you have done this step, right click the new folder the shows up in yuzu, a
   Whats a BCAT?
   A BCAT is the way of Nintendo sending you Ingame Gifts.
   On an Emulator this, obv, doesnt works as on a Switch, so Yuzu has its own way of giving you these.
-  To Enable this go in the menu and choose Boxcat. ![here](https://i.imgur.com/w6l3zlC.png)
+  To Enable this go in the menu and choose Boxcat. ![here](https://raw.githubusercontent.com/SkyeX9/Guide-To-Switch-Emulation/main/Yuzu_Images/yuzu_bN24pp6u7N.png)
  <p> A list of all the stuff you can get can be found [here](https://yuzu-emu.org/help/feature/boxcat/)
 
 
   ## Addons
 
- Here ima show how to install mods.
- It's pretty simple, we're gonna take the mod from [here](https://gbatemp.net/threads/pokemon-mystery-dungeon-dx-60-fps-mod.559469/)
+ He is a simple way of installing addons/mods
+ It's pretty simple, we're gonna take the mod for pokemon mystery dungeon from [here](https://gbatemp.net/threads/pokemon-mystery-dungeon-dx-60-fps-mod.559469/)
  When you download the zip file you will have a folder called "exefs_patches".
  Go inside that folder and in the other folder in there until you are at this file with an .IPS
- ![memememem](https://nuke.bayern/QTwbBtLy.png?key=GP1JZ3BylhCn9q)
+ ![JustARandomString5](https://nuke.bayern/QTwbBtLy.png?key=GP1JZ3BylhCn9q)
   <p> Then move that IPS file into exefs_patches and delete the now empty folder.
  Then rename exefs_patches into exefs.
  Now open yuzu and rightclick your game -> Open Mod Directory.
  Create a new folder with any name you want and move the exefs folder into that, then restart yuzu and you're done.
  You now see your mod at compatibility.
- - Additional Note here:
- If you got any other names for the folder don't rename it to exefs.
+ - Additional Notes:
+ If you have any other names for the folder, do NOT rename it to exefs.
  Instead rename them to romfs or romfs_ext.
 
  You can completly skip these steps if you use mods from [here](https://github.com/yuzu-emu/yuzu/wiki/Switch-Mods) or [here](https://yuzu-emu.org/game/)
 
   # Goodbye
 
- Thank you for reading this, I hope it helped you with your start into Switch emulation.
+ Thank you for reading this, I hope it helped you with your start into Switch Emulation.
  If I forgot something just create a Pull Request with the stuff added and I will review it ASAP.
