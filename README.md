@@ -12,7 +12,6 @@ This Repo explains how to install the yuzu Switch Emulator without a Switch on a
   * [Additional](#additional)
    * [Compatability](#compatibility) 
    * [GameUpdates](#gameupdates)
-   * [Performance](#performance)
    * [BCAT](#bcats)
    * [Mods/Patches](#addons)
   * [Goodbye](#goodbye)
@@ -24,8 +23,9 @@ This Repo explains how to install the yuzu Switch Emulator without a Switch on a
 
  yuzu will open and show this screen
  ![JustARandomString1](https://raw.githubusercontent.com/SkyeX9/Guide-To-Switch-Emulation/main/Yuzu_Images/yuzu_BDZoemVbLl.png)
- on there click Emulation -> Configure -> System -> Profile
- Then press on Add and make a new profile, then close yuzu
+ Dont worry about the error, just click okay, then on the top left of the app, click Emulation -> Configure -> System -> Profile
+ Then press on Add and make a new profile, do what you want with the profile picture and the default Yuzu account it comes with. 
+ I personally delete the yuzu user. 
 
   ## Files
  Inside of yuzu click File -> Open yuzu folder.
@@ -37,24 +37,23 @@ Next, download and install Microsoft Visual C++ 2019 from [here](https://aka.ms/
 
   ## Settings
  For settings open yuzu up Emulation -> Configure -> Graphics, Select OpenGL and set it to Vulkan or OpenGL. (Vulkan seems to be a bit bad atm)
- Then go to Controls and press Single Player yadiyadiyada and set it to something like this
- ![Reeeeeeee](https://nuke.bayern/tQRi6Dco.png?key=TKvixrA2KWor0u)
-
- Then Press Configure and set Player 1 to Pro Controller if you have a controller/keyboard and to Joycons if Joycons.
- Press Configure and press the excat buttons on your controller (it's easier for Xbox but for you PS4 and keyboard users I have a graphic for yo found [here](https://compass-ssl.xboxlive.com/assets/c7/a1/c7a12fbe-af04-4a90-92f2-18338219c2aa.png?n=one-controller-front-l.png))
+ Then go to Controls and setup any controller/keyboard layout you want for any of the 8 players. keep in mind, you need to press the excact buttons on your controller 
+(if you have a controller/keyboard, keep it as a Pro Controller, if you use joycons, set them up as left/right joycons!)
+ ![JustARandomString2](https://raw.githubusercontent.com/SkyeX9/Guide-To-Switch-Emulation/main/Yuzu_Images/yuzu_YhMWm8EfnI.png)
  After you're done press Okay and continue to the next step.
 
   ## Games
- Download any ROM you want from any ROM Website you like, or if your arent a Pirate, dump the gamecart from your Switch.
- After you got your File (can be .xci or .nsp/.nsz) create a folder somewhere on your PC and in that folder create another folder for your game.
- After that double-click into yuzu and select the folder you put your game folder in.
- ![UwU](https://sexin.church/7CT7o3Sr.png?key=XuV6NAPCK1ZTH0)
-<p> Now the game should be in the list.
+ Download any ROM you want from any ROM Website you like (I suggest going [here](https://nxbrew.com/)), or if your arent a Pirate, dump the gamecart from your Switch.
+ After you got your File (can be .xci or .nsp) create a folder somewhere on your PC (preferably in the same location you extracted Yuzu to) and name it "games", then proceed to  make another folder, give it the games name. Copy/Extract/Move your ROM file to that folder. After that double-click into yuzu and select the "games" folder.
+
+Once you have done this step, right click the new folder the shows up in yuzu, and select the "Scan Subfolders" option. 
+ ![JustARandomString3](https://raw.githubusercontent.com/SkyeX9/Guide-To-Switch-Emulation/main/Yuzu_Images/yuzu_cWZ4UfNp2A.png)
+ Now the game should be in the list.
 
  ## GameCart-Dumping
 
-  I found a very good guide that can be found [here](https://wiki.no-intro.org/index.php?title=Nintendo_Switch_Dumping_Guide)
-  When you got the XCI, just do the same as in the Gif Above
+  For any of you with a modded switch, and want to dump your own game carts, instead of being a pirate, I found a very good guide that can be found [here](https://wiki.no-intro.org/index.php?title=Nintendo_Switch_Dumping_Guide)
+  When you get the XCI on your computer, just do the same as in the [Games](#games)
 
  # Additional
   ## Compatibility
@@ -67,28 +66,6 @@ Next, download and install Microsoft Visual C++ 2019 from [here](https://aka.ms/
  Put it in your folder of the game, then open yuzu. Do exactly as in there
  ![rererere](https://i.uwu.plus/hNmEGB8V.gif?key=gGAX37XVMM7o1q)
  For me it was already installed but it should then show under addons that you have it installed
-
-  ## Performance
-
-  For the best Performance just go below here
-
-  Nvidia: 
-
-  - Download latest [Driver](https://www.nvidia.de/Download/index.aspx?lang=en)
-  - Download [NvidiaInspector](https://drive.google.com/uc?export=download&id=1Dny2QYUB5wLrHPStwg4_WzpHCUs5xN15)
-  - Open it and Press the Green Arrow that goes down in Topbar and select import Profiles
-  - Download my [Profile](https://drive.google.com/file/d/1bkTNMr7TPTur9iZsmcu5W_FEsp56R26D/view?usp=sharing) and select it 
-  - Press ,,Apply Changes,,
-  - Profit
-
-  AMD: 
-
-  - IDK need some help here maybe
-
-
-  Generally: 
-
-  Use my [GamingTweaksRepo](https://github.com/PrincessAkira/Use-Gaming-Tweaks) for Performance Stuff
 
   ## BCATS
 
