@@ -77,20 +77,21 @@ Once you have done this step, right click the new folder the shows up in yuzu, a
 
   ## Addons
 
- He is a simple way of installing addons/mods
- It's pretty simple, we're gonna take the mod for pokemon mystery dungeon from [here](https://gbatemp.net/threads/pokemon-mystery-dungeon-dx-60-fps-mod.559469/). 
+ Here is a simple way of installing addons/mods:
+ It is pretty simple, we're gonna take the mod for pokemon mystery dungeon from [here](https://gbatemp.net/threads/pokemon-mystery-dungeon-dx-60-fps-mod.559469/) for this example. 
  When you download the zip file you will have a folder called "exefs_patches".
- Go inside that folder and in the other folder in there until you are at this file with an .IPS
+ Go inside the next few folders until you are at this file with an .IPS extension name
 
- ![JustARandomString5](https://raw.githubusercontent.com/SkyeX9/Guide-To-Switch-Emulation/main/Yuzu_Images/explorer_0sHfAXoMTu.png)
+ ![JustARandomString5](https://raw.githubusercontent.com/SkyeX9/Guide-To-Switch-Emulation/main/Yuzu_Images/explorer_9IZcosBq7L.png)
   <p> Then move that IPS file into exefs_patches and delete the now empty folder.
- Then rename exefs_patches into exefs.
+  - Additional Notes:
+  + Rename exefs_patches into exefs UNLESS
+    -You have any other names for the folder, do NOT rename it to exefs. Instead rename them to romfs or romfs_ext.
+
  Now open yuzu and rightclick your game -> Open Mod Directory.
  Create a new folder with any name you want and move the exefs folder into that, then restart yuzu and you're done.
  You now see your mod at compatibility.
- - Additional Notes:
- If you have any other names for the folder, do NOT rename it to exefs.
- Instead rename them to romfs or romfs_ext.
+ 
 
  You can completly skip these steps if you use mods from [here](https://github.com/yuzu-emu/yuzu/wiki/Switch-Mods) or [here](https://yuzu-emu.org/game/)
 
