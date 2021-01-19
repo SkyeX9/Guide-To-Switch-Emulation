@@ -85,9 +85,7 @@ Once you have done this step, right click the new folder the shows up in yuzu, a
   
 - Additional Notes:
 
-+ Rename exefs_patches into exefs UNLESS
-
-++You have any other names for the folder, do NOT rename it to exefs. Instead rename them to romfs or romfs_ext.
++ Rename exefs_patches into exefs UNLESS you have any other names for the folder, do NOT rename it to exefs. Instead rename them to romfs or romfs_ext.
 
  Now open yuzu and rightclick your game -> Open Mod Directory.
  Create a new folder with any name you want and move the exefs folder into that, then restart yuzu and you're done.
