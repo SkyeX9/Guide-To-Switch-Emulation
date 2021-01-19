@@ -8,7 +8,7 @@ This Repo explains how to install the yuzu Switch Emulator without a Switch on a
    * [Needed-Files](#files)
    * [Settings](#settings)
    * [Games](#games)
-    * [GameCart-Dumping](#gamecart-dumping)
+   * [GameCart-Dumping](#gamecart-dumping)
   * [Additional](#additional)
    * [Compatability](#compatibility) 
    * [GameUpdates](#gameupdates)
