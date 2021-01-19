@@ -60,7 +60,6 @@ Next, download and install Microsoft Visual C++ 2019 from [here](https://aka.ms/
   When you got the XCI, just do the same as in the Gif Above
 
  # Additional
-
   ## Compatibility
 
   For a Compatibility List of Games working look [here](https://yuzu-emu.org/game/)
