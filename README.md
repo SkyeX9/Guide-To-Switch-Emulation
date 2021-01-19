@@ -51,8 +51,7 @@ Once you have done this step, right click the new folder the shows up in yuzu, a
 
  ## GameCart-Dumping
 
-  For any of you with a modded switch, and want to dump your own game carts, instead of being a pirate, I found a very good guide that can be found [here](https://wiki.no-intro.org/index.php?title=Nintendo_Switch_Dumping_Guide)
-  When you get the XCI on your computer, just do the same as in the [games](#games) section
+  For any of you with a modded switch, and want to dump your own game carts, instead of being a pirate, I found a very good guide that can be found [here](https://wiki.no-intro.org/index.php?title=Nintendo_Switch_Dumping_Guide). When you get the XCI on your computer, just do the same as in the [games](#games) section
 
   ## Compatibility
 
