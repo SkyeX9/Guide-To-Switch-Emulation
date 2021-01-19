@@ -8,7 +8,7 @@ This Repo explains how to install the yuzu Switch Emulator without a Switch on a
    * [Needed-Files](#files)
    * [Settings](#settings)
    * [Games](#games)
-  * [GameCart-Dumping](#gamecarddumping)
+  * [GameCart-Dumping](#gamecart-dumping)
    * [Games](#npgames) 
   * [Additional](#additional)
    * [Compatability](#compatibility) 
@@ -55,12 +55,12 @@ Next, download and install Microsoft Visual C++ 2019 from [here](https://aka.ms/
 <p> Now the game should be in the list.
 <p>
 
- # Game Cart Dumping
+ # GameCart-Dumping
 
   I found a very good guide that can be found [here](https://wiki.no-intro.org/index.php?title=Nintendo_Switch_Dumping_Guide)
   When you got the XCI, just do the same as in the Gif Above
 
- # Additional
+ ## Additional
 
   # Compatibility
 
