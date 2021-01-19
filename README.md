@@ -12,7 +12,7 @@ This Repo explains how to install the yuzu Switch Emulator without a Switch on a
    * [Compatability](#compatibility) 
    * [GameUpdates](#gameupdates)
    * [BCAT](#bcats)
-   * [Mods/Patches](#addons)
+   * [Addons/Mods/Patches](#addons)
   * [Goodbye](#goodbye)
 
   ## Setup
