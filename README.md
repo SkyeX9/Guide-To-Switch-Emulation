@@ -78,10 +78,10 @@ Once you have done this step, right click the new folder the shows up in yuzu, a
   ## Addons
 
  He is a simple way of installing addons/mods
- It's pretty simple, we're gonna take the mod for pokemon mystery dungeon from [here](https://gbatemp.net/threads/pokemon-mystery-dungeon-dx-60-fps-mod.559469/)
+ It's pretty simple, we're gonna take the mod for pokemon mystery dungeon from [here](https://gbatemp.net/threads/pokemon-mystery-dungeon-dx-60-fps-mod.559469/). 
  When you download the zip file you will have a folder called "exefs_patches".
  Go inside that folder and in the other folder in there until you are at this file with an .IPS
- ![JustARandomString5](https://nuke.bayern/QTwbBtLy.png?key=GP1JZ3BylhCn9q)
+ ![JustARandomString5](https://raw.githubusercontent.com/SkyeX9/Guide-To-Switch-Emulation/main/Yuzu_Images/explorer_0sHfAXoMTu.png)
   <p> Then move that IPS file into exefs_patches and delete the now empty folder.
  Then rename exefs_patches into exefs.
  Now open yuzu and rightclick your game -> Open Mod Directory.
